@@ -10,8 +10,7 @@ Personal Python notes repository! This collection serves as a reference for vari
 |:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 |  [Intro](https://github.com/Suhas-Sharath/python_notes/blob/main/Python%20Concepts/General%20Stuff.ipynb)||
 |  [Numeric](https://github.com/Suhas-Sharath/python_notes/blob/main/Python%20Concepts/Numeric.ipynb)||
-|  [Strings](ipynb)||
-|  [Strings - advanced](https://github.com/Suhas-Sharath/Py_Notes/blob/main/Python%20Concepts/string-advanced.ipynb)||
+|  [Strings](https://github.com/Suhas-Sharath/python_notes/blob/main/Python%20Concepts/strings.ipynb)||
 |  [Lists](https://github.com/Suhas-Sharath/python_notes/blob/main/Python%20Concepts/lists.ipynb)||
 |  [Tuples](https://github.com/Suhas-Sharath/python_notes/blob/main/Python%20Concepts/tuples.ipynb)||
 |  [Dictionary](https://github.com/Suhas-Sharath/python_notes/blob/main/Python%20Concepts/dictionaries.ipynb)||
